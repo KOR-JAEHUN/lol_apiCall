@@ -1,7 +1,6 @@
 var express = require('express');
 const urlencode = require('urlencode');
 const rp = require('request-promise');
-
 var router = express.Router();
 
 const apiKey = 'RGAPI-d7189126-4223-464b-8a53-21a10f4be925';
