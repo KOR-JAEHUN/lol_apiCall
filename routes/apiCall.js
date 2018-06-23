@@ -3,7 +3,7 @@ const urlencode = require('urlencode');
 const rp = require('request-promise');
 var router = express.Router();
 
-const apiKey = 'RGAPI-d7189126-4223-464b-8a53-21a10f4be925';
+const apiKey = 'RGAPI-6f1e4e2d-232c-4d63-817c-5047454fc11a';
 const summoner_url = 'https://kr.api.riotgames.com/lol/summoner/v3/summoners/by-name';
 const league_url = 'https://kr.api.riotgames.com/lol/league/v3/positions/by-summoner';
 
